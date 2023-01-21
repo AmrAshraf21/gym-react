@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Welcome in my project gym with react and using API 
+## Welcome in my project gym with react and using API with a RapidAPI
 This **project** was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
